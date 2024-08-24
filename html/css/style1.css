@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+/* line 10 */
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(../image1/ox.jpg);
+    background-size: cover;
+    background-position: center;
+}
+/* line 13 */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 7%;
+}
+.logo{
+    width: 140px; 
+    border-radius: 200px;
+} 
+
+.nav-links li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 30px;
+} 
+.nav-links li a{ 
+    text-decoration: none;
+    color: #fff;
+}
+
+.register-btn{
+    background: #fff;
+    color: #000;
+    padding: 8px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 14px;
+}
+/* line 20 */
+.container{
+    padding: 0 7%;
+}
+
+/* line 21 */
+.header h1{
+    font-size: 4vw;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    padding-top: 22%;
+}
+.search-bar{
+    background: #fff;
+    width: 70%;
+    margin: 30px auto;
+    padding: 6px 10px 6px 30px;
+    border-radius: 50px;
+}
+.search-bar form{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.search-bar form input{
+    display: block;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+.search-bar form button{
+    background: #ff5361;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+/* container */
+.cta{
+    margin: 80px 0;
+    background-image: linear-gradient(to right, #3f2321, transparent), url(../ox.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    padding: 5%;
+    color: #fff;
+}
+.cta h3{
+    font-size: 4vw;
+    line-height: 5.3vw;
+    font-weight: 500;
+}
+.cta p{
+    font-size: 18px;
+    margin: 10px 0;
+}
+.cta-btn{
+    background: #ff5361;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.submit-btn{
+    text-decoration: none;
+    background: #ff5361;
+    color: #fff;
+    width: 80%;
+    max-width: 350px;
+    display: block;
+    text-align: center;
+    margin: 60px auto;
+    padding: 15px;
+    border-radius: 30px;
+    font-size: 20px;
+} 
+
+.footer{
+    margin: 80px 0 10px;
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+    color: #999;
+    font-size: 22px;
+    margin: 0 10 px,
+}
+.footer hr{
+    background: #999;
+    height: 1px;
+    width: 100%;
+    border: 0;
+    margin: 20px 0;
+}
+.footer p{
+    padding-bottom: 15px;
+}
+.header h1{
+    padding-top:100px;
+    font-size: 6vw;
+}  
+
+    
+    
+    
+
+    
+
