@@ -121,7 +121,7 @@ nav{
     height: 30px;
     display: flex;
     align-items: flex-start;
-    transition: align-items 1s;
+    transition: align-items 1s; 
 }
 
 .contact .item .card:hover p {
@@ -153,7 +153,7 @@ nav{
     line-height: 16px;
     font-weight: 500;
     cursor: pointer;
-    transition: all 1s;
+    transition: all 1s; 
 }
 
 .contact .item form .btn-contact:hover {
