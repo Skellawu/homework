@@ -102,7 +102,7 @@ nav{
     padding: 5%;
     color: #fff;
 }
-.cta h3{
+/* .cta h3{
     font-size: 4vw;
     line-height: 5.3vw;
     font-weight: 500;
@@ -119,7 +119,7 @@ nav{
     border-radius: 8px;
     margin-top: 20px;
     display: inline-block;
-}
+} */
 
 .submit-btn{
     text-decoration: none;

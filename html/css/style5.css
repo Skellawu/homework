@@ -156,9 +156,6 @@ nav{
     transition: all 1s; 
 }
 
-.contact .item form .btn-contact:hover {
-    background-color: #f35405;
-}
 
 .footer{
     margin: 80px 0 10px;
